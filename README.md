@@ -14,8 +14,6 @@
 # 👋 Hi, I’m Guilherme  
 **DevOps & Platform Engineer · AI/MLOps Tooling Enthusiast · Cloud-Native · Autonomous Driving · 5G/6G**
 
----
-
 ## 🧠 About Me  
 I’m a DevOps & infrastructure engineer who’s spent the last few years automating and connecting complex systems — from 5G/6G network platforms to autonomous-driving pipelines.  
 
@@ -57,20 +55,14 @@ Prometheus · Grafana · Fluentd · ELK Stack · Jaeger · Istio · Datadog  · 
 [![DatabaseIcons](https://skillicons.dev/icons?i=postgres,mongodb,neo4j,mariadb,oracle&theme=dark&perline=10)](https://skillicons.dev)  
 PostgreSQL · MongoDB · Neo4j · MariaDB · Oracle SQL  
 
----
-
 ## 🔭 What I’m Playing With  
 - 🧩 MLOps pipelines, AI agents, and tools that automate the boring parts.  
 - 🚚 Infra and dev tools powering connected & autonomous systems.  
 - 🧠 Experimenting with CLIs, agents, and MCPs.    
 
----
-
 ## 📫 Let’s Connect  
 - [LinkedIn](https://www.linkedin.com/in/guilhermeamoreira/)  
 - [GitHub](https://github.com/guilherme-am)
-
----
 
 ## 📊 GitHub Snapshot  
 <div align="left">
