@@ -66,6 +66,12 @@ PostgreSQL · MongoDB · Neo4j · MariaDB · Oracle SQL
 
 ---
 
+## 📫 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/guilhermeamoreira/)  
+- [GitHub](https://github.com/guilherme-am)
+
+---
+
 ## 📊 GitHub Snapshot  
 <div align="left">
   <a href="https://github.com/guilherme-am">
@@ -79,15 +85,9 @@ PostgreSQL · MongoDB · Neo4j · MariaDB · Oracle SQL
   </a>
 </div>
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=guilherme-am&theme=onedark&margin-w=5&row=1)](https://github.com/guilherme-am)
+
 > *Note — these stats only show public activity; bunch of my work lives in private and internal repos. Infra downside.*  
 > *Yep, my open projects here are still not that many... but I’ll get there. Sorry :|*
 
 ---
-
-## 📫 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/guilhermeamoreira/)  
-- [GitHub](https://github.com/guilherme-am)  
-
----
-
-> *“Remote-friendly. Occasionally breaks prod. Always fixes it before coffee.”* ☕
