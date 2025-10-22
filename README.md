@@ -11,7 +11,7 @@
   </a>
 </div>
 
-# 👋 Hi, I’m Guilherme
+# 👋 Hi, I’m Guilherme  
 **DevOps & Platform Engineer · AI/MLOps Tooling Enthusiast · Cloud-Native · Autonomous Driving · 5G/6G**
 
 ---
@@ -19,9 +19,9 @@
 ## 🧠 About Me  
 I’m a DevOps & infrastructure engineer who’s spent the last few years automating and connecting complex systems — from 5G/6G network platforms to autonomous-driving pipelines.  
 
-I ~build~ break and occasionally fix scalable systems. 
-How? Not sure.
-Probably something in between defining, maintaining, and wiring up microservices, automating pipelines (and sometimes chaos), while playing with tooling (CLI’s & GUIs) that makes developer life easier (or at least less boring).
+I ~build~ break and occasionally fix scalable systems.  
+How? Not sure.  
+Probably something in between defining, maintaining, and wiring up microservices, automating pipelines (and sometimes chaos), while playing with tooling (CLI’s & GUIs) that makes developer life easier (or at least less boring).  
 
 Big fan of Linux, agents, CLIs, and exploring how AI and MLOps can make infra smarter — or at least more interesting.
 
@@ -29,49 +29,33 @@ Big fan of Linux, agents, CLIs, and exploring how AI and MLOps can make infra sm
 
 ## 🛠️ Skills & Tools  
 
-#### Cloud & Platform  
-[![CloudIcons](https://skillicons.dev/icons?i=aws,gcp,azure,vmware&theme=light&perline=10)](https://github.com/guilherme-am)  
-- AWS · GCP · Azure · VMware  
+#### ☁️ Cloud & Platform  
+[![CloudIcons](https://skillicons.dev/icons?i=aws,gcp,azure,vmware,linux&theme=dark&perline=10)](https://skillicons.dev)  
+AWS · GCP · Azure · VMware · Linux  
 
-#### Containers / Orchestration  
-[![ContainersIcons](https://skillicons.dev/icons?i=kubernetes,openshift,gke,eks,aks,vmwaretanzu,docker,podman,helm&theme=light&perline=10)](https://github.com/guilherme-am)  
-- Kubernetes (OpenShift, GKE, EKS, AKS, VMware Tanzu) · Docker · Podman · Helm  
+#### 🌀 Containers / Orchestration  
+[![ContainersIcons](https://skillicons.dev/icons?i=kubernetes,openshift,docker,podman,helm&theme=dark&perline=10)](https://skillicons.dev)  
+Kubernetes (OpenShift, GKE, EKS, AKS, Tanzu) · Docker · Podman · Helm  · K9s
 
-#### Automation & CI/CD  
-[![AutomationIcons](https://skillicons.dev/icons?i=terraform,ansible,gitlab,githubactions,jenkins,argocd&theme=light&perline=10)](https://github.com/guilherme-am)  
-- Terraform · Ansible · GitLab Runner · ArgoCD · GitHub Actions · Jenkins  
+#### ⚙️ Automation & CI/CD  
+[![AutomationIcons](https://skillicons.dev/icons?i=terraform,ansible,gitlab,githubactions,jenkins&theme=dark&perline=10)](https://skillicons.dev)  
+Terraform · Ansible · GitLab Runner · ArgoCD · GitHub Actions · Jenkins  
 
-#### Programming  
-[![ProgrammingIcons](https://skillicons.dev/icons?i=python,rust,typescript,go,java,javascript,sql&theme=light&perline=10)](https://github.com/guilherme-am)  
-- Python · Rust · TypeScript · Go · Bash/Shell · SQL · C/C++ · Java · JavaScript  
+#### 🧑‍💻 Programming  
+[![ProgrammingIcons](https://skillicons.dev/icons?i=python,rust,typescript,go,java,javascript,bash&theme=dark&perline=10)](https://skillicons.dev)  
+Python · Rust · TypeScript · Go · Bash/Shell · SQL · C/C++ · Java · JavaScript  
 
-#### Databases & Storage  
-[![DatabaseIcons](https://skillicons.dev/icons?i=postgresql,mongodb,neo4j,mariadb,oracle&theme=light&perline=10)](https://github.com/guilherme-am)  
-- PostgreSQL · MongoDB · Neo4j · MariaDB · Oracle SQL  
+#### 🧠 AI / MLOps & Tooling  
+[![AIIcons](https://skillicons.dev/icons?i=tensorflow,pytorch,mlflow,kubeflow,huggingface&theme=dark&perline=10)](https://skillicons.dev)  
+Kubeflow · MLflow · TensorFlow · PyTorch · scikit-learn · Hugging Face · LangChain · Langfuse  
 
-#### Monitoring & Observability  
-[![ObservabilityIcons](https://skillicons.dev/icons?i=prometheus,grafana,fluentd,elk,jaeger,istio,datadog&theme=light&perline=10)](https://github.com/guilherme-am)  
-- Prometheus · Grafana · Fluentd · ELK Stack · Jaeger · Istio · Datadog  
+#### 📈 Monitoring & Observability  
+[![ObservabilityIcons](https://skillicons.dev/icons?i=prometheus,grafana,nginx,elasticsearch&theme=dark&perline=10)](https://skillicons.dev)  
+Prometheus · Grafana · Fluentd · ELK Stack · Jaeger · Istio · Datadog  · Kubetail
 
-#### Telecom / Platform Experience  
-[![TelecomIcons](https://skillicons.dev/icons?i=5g,6g&theme=light&perline=10)](https://github.com/guilherme-am)  
-- 5G/6G Core & RAN · Autonomous Driving Infrastructure  
-
-#### AI / MLOps & Tooling  
-[![AIIcons](https://skillicons.dev/icons?i=tensorflow,pytorch,mlflow,kubeflow,langchain,huggingface&theme=light&perline=10)](https://github.com/guilherme-am)  
-- Kubeflow · MLflow · TensorFlow · PyTorch · scikit-learn · Hugging Face · LangChain · Langfuse  
-
----
-
-## 📊 GitHub Stats  
-<div align="left">
-  <a href="https://github.com/guilherme-am">
-    <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilherme-am&theme=onedark" alt="Guilherme’s GitHub stats" />
-  </a>
-  <a href="https://github.com/guilherme-am">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-am&layout=compact&theme=onedark" alt="Guilherme’s top languages" />
-  </a>
-</div>
+#### 🗄️ Databases & Storage  
+[![DatabaseIcons](https://skillicons.dev/icons?i=postgres,mongodb,neo4j,mariadb,oracle&theme=dark&perline=10)](https://skillicons.dev)  
+PostgreSQL · MongoDB · Neo4j · MariaDB · Oracle SQL  
 
 ---
 
@@ -82,8 +66,28 @@ Big fan of Linux, agents, CLIs, and exploring how AI and MLOps can make infra sm
 
 ---
 
-## 📫 Let’s Connect  
-- LinkedIn: [linkedin.com/in/guilhermeamoreira](https://www.linkedin.com/in/guilhermeamoreira/)
-- GitHub: [github.com/guilherme-am](https://github.com/guilherme-am)
+## 📊 GitHub Snapshot  
+<div align="left">
+  <a href="https://github.com/guilherme-am">
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilherme-am&theme=onedark" alt="Profile details" />
+  </a>
+  <a href="https://github.com/guilherme-am">
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilherme-am&theme=onedark" alt="Stats" />
+  </a>
+  <a href="https://github.com/guilherme-am">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-am&layout=compact&theme=onedark" alt="Top languages" />
+  </a>
+</div>
+
+> *Note — these stats only show public activity; bunch of my work lives in private and internal repos. Infra downside.*  
+> *Yep, my open projects here are still not that many... but I’ll get there. Sorry :|*
 
 ---
+
+## 📫 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/guilhermeamoreira/)  
+- [GitHub](https://github.com/guilherme-am)  
+
+---
+
+> *“Remote-friendly. Occasionally breaks prod. Always fixes it before coffee.”* ☕
